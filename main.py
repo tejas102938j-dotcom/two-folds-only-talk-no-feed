@@ -1,6 +1,3 @@
-
-
-
 import base64
 import hashlib
 import hmac
@@ -2875,6 +2872,6 @@ INDEX_HTML = r"""
     </script>
 </body>
 </html>
-"""
+
 
 
